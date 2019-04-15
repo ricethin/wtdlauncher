@@ -1,0 +1,20 @@
+{
+    "launcher_project_id": "b3d6d6e6-8d78-4915-b05b-2587758db586",
+    "login_project_id": "4934e3bc-3525-11e9-9244-42010aa80004",
+    "redirect_url": "https://xsolla.com",
+    "callback_url": "https://login.xsolla.com/api/blank",
+    "stone_app_id": "",
+    "steam_app_id": "",
+    "playfab_project_id" : "FB8D",
+    "use_playfab_login": false,
+    "store_token_life_time": 23,
+    "check_update_interval": 10800000,
+    "GA_trackingId": "UA-78313409-9",
+    "product_name": "WhitethornDigitalLauncher",
+    "link_support":      "http://www.whitethorndigital.com",
+    "link_community":    "https://discord.gg/whitethorndigital",
+    "build_number": 0,
+    "enable_home_page": false,
+    "home_page_res_link": "https://s3.amazonaws.com/launcher-stuff/PromoPage/build_1_6_33_325.7z",
+    "store": { "id" : 42889, "theme" : "default", "size" : "large", "view" : "horizontal_navigation" }
+}

@@ -1,0 +1,28 @@
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+2019-04-08T15:09:38	DEBUG	Main	developer mode activated
+2019-04-08T15:09:38	INFO	Main	Launcher version:  10.0.10011.16384
+2019-04-08T15:09:38	INFO	Main	OperatingSystemVersion:  "Windows"   "10.0.17134"
+2019-04-08T15:09:38	INFO	default	UrlsManager::init.
+2019-04-08T15:09:38	INFO	default	ConfigManager: init.
+2019-04-08T15:09:38	CRITICAL	default	Config json file is corrupted:  "config.json"
+2019-04-08T15:09:38	CRITICAL	default	Abort!
+2019-04-08T15:09:38	INFO	default	ConfigManager: init.
+2019-04-08T15:09:38	CRITICAL	default	Config json file is corrupted:  "config.json"
+2019-04-08T15:09:38	CRITICAL	default	Abort!
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+2019-04-08T15:09:46	DEBUG	Main	developer mode activated
+2019-04-08T15:09:46	INFO	Main	Launcher version:  10.0.10011.16384
+2019-04-08T15:09:46	INFO	Main	OperatingSystemVersion:  "Windows"   "10.0.17134"
+2019-04-08T15:09:46	INFO	default	UrlsManager::init.
+2019-04-08T15:09:46	INFO	default	ConfigManager: init.
+2019-04-08T15:09:46	CRITICAL	default	Config json file is corrupted:  "config.json"
+2019-04-08T15:09:46	CRITICAL	default	Abort!
+2019-04-08T15:09:46	INFO	default	ConfigManager: init.
+2019-04-08T15:09:46	CRITICAL	default	Config json file is corrupted:  "config.json"
+2019-04-08T15:09:46	CRITICAL	default	Abort!
